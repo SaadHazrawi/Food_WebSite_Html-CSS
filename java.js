@@ -1,0 +1,1 @@
+//how i can check type the filed?
